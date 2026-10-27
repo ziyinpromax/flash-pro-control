@@ -1,0 +1,8 @@
+{
+  "package": "com.parami.moviecontrol",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "certSha256": "c0a52de57ba823da992d740cbafe1f83f613f6528ab2e62662098bf1ca243543",
+  "apkUrl": "https://github.com/ziyinpromax/flash-pro-control/releases/download/v1.6/ParamiMovieControl.apk",
+  "apkSha256": "ad87580b8c922f706fc2eb872d5ceb7e1cf53fd7b3a15a2373f6db2c1903075f"
+}
